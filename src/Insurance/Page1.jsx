@@ -1,5 +1,5 @@
 import React from "react";
-import insurance from "../assets/Insurance1.jpg"
+import insurance from "../../../vedahamfrontend/src/assets/Insurance1.jpg"
 
 const Page1 = () => {
   return (
